@@ -1,0 +1,19 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`The root module > when rendering the app > when there is consent for cookies > renders the app with analytics scripts 1`] = `
+<DocumentFragment>
+  mock sentry wrapper
+  <div
+    id="mock-posthog"
+  />
+</DocumentFragment>
+`;
+
+exports[`The root module > when rendering the app > when there is no consent for cookies > renders the app 1`] = `
+<DocumentFragment>
+  mock sentry wrapper
+  <div
+    id="mock-posthog"
+  />
+</DocumentFragment>
+`;
