@@ -231,7 +231,6 @@
     "reporters": [
       "html",
       "console",
-      "badge",
       "markdown"
     ],
     "ignore": [
