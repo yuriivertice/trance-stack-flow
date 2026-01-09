@@ -65,7 +65,7 @@
     "@aws-sdk/types": "3.357.0",
     "@remix-run/architect": "1.18.1",
     "@remix-run/node": "1.18.1",
-    "@remix-run/react": "1.18.1",
+    "@remix-run/react": "2.17.3",
     "@remix-run/server-runtime": "1.18.1",
     "@sentry/react": "7.57.0",
     "@sentry/remix": "7.57.0",
